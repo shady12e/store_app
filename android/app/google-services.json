@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178137769408",
+    "project_id": "storee-demo-2",
+    "storage_bucket": "storee-demo-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178137769408:android:dbf3c317dea76e50e71425",
+        "android_client_info": {
+          "package_name": "com.example.store_app_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChryyNOF0wUuRZyS4ul6zYgo16btb0FzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
